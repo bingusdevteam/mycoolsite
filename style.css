@@ -1,22 +1,20 @@
 body {
-  color: black;
-}
-h1{
-  color: limegreen;
-  font-family: fantasy;
+  background-color: black;
+  color:  greenyellow;
+  font-family:  monospace;
 
+}
+
+h1 {
+
+  border: 5px solid greenyellow;
+}
+
+p{
+  font-size: large;
 }
 
 h2{
-  color: darkgreen;
-  font-family: cursive;
 
-
-}
-
-p {
-
-  border: 10px solid salmon;
-  padding: 30px;
-  font-family: sans-serif;
+  border: 5px solid greenyellow;
 }
