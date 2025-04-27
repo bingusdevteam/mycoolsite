@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+  color:  greenyellow;
+  font-family:  monospace;
+
+}
+
+h1 {
+
+  border: 5px solid greenyellow;
+}
+
+p{
+  font-size: large;
+}
+
+h2{
+
+  border: 5px solid greenyellow;
+}
